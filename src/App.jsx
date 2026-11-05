@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { getOtp } from "./utils/loginApis";
-
+import react from "react";
 function Login() {
   const [phoneNumber, setPhoneNumber] = useState("");
   const [otp, setOtp] = useState("");
