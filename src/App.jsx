@@ -1,3 +1,3 @@
-const title = "React";
+const appName = "Git Masterclass";
 
-console.log(title);
+console.log(`Welcome to ${appName}`);
